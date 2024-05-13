@@ -1,0 +1,121 @@
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\lenov\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\lenov\Desktop\Nueva carpeta\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\PC\Desktop\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\appsettings.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.Proyecto.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.build.Proyecto.props
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto.props
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Proyecto.props
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\scopedcss\bundle\Proyecto.styles.css
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\lenov\Desktop\P2A01\P2A01\Proyecto-14-Dotnet\Proyecto-14-Dotnet\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
