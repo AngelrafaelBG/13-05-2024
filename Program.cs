@@ -11,4 +11,6 @@ app.MapGet("/equipo/integrantes", PresentacionRequestHandler.ListarAlumnos);
 
 app.MapGet("/banner/principal", PubliciadRequestHandler.ListarPublicidad);
 
+app.MapGet("/principal/ofertas",OfertasRequesHandler.ObtenerOfertas);
+
 app.Run();
