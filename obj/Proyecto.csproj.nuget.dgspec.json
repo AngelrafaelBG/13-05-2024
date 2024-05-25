@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj": {}
+    "C:\\Users\\lenov\\Desktop\\P2A01\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj": {
+    "C:\\Users\\lenov\\Desktop\\P2A01\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj",
+        "projectUniqueName": "C:\\Users\\lenov\\Desktop\\P2A01\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj",
         "projectName": "Proyecto",
-        "projectPath": "C:\\Users\\PC\\Desktop\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\obj\\",
+        "projectPath": "C:\\Users\\lenov\\Desktop\\P2A01\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\Proyecto.csproj",
+        "packagesPath": "C:\\Users\\lenov\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lenov\\Desktop\\P2A01\\P2A01\\Proyecto-14-Dotnet\\Proyecto-14-Dotnet\\Proyecto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lenov\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
