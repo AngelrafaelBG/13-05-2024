@@ -14,4 +14,6 @@ app.MapGet("/banner/principal", PubliciadRequestHandler.ListarPublicidad);
 app.MapGet("/principal/ofertas",OfertasRequesHandler.ObtenerOfertas);
 
 app.MapGet("/productos/{sku}/imagenes",ProductosRequestHandler.MostrarImagenes);
+
+app.MapGet("/productos/{sku}", MostrarProductoRequestHandler.MostrarProducto);
 app.Run();
